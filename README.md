@@ -1,13 +1,46 @@
 # **Book-directory-API**
 
+For the local environment setup:
+
+Change the directory to your folder using :
+```
+cd Desktop/MyProjectFolder
+```
+
+Clone the repo using git clone command:
+
+```
+git clone https://github.com/meetghodasara/book-directory-api.git
+```
+
+Change the directory to project folder using :
+
+```
+cd book-directory-api
+```
+
+To install modules :
+```
+npm install
+```
+
+To run with nodemon:
+
+```
+npm run dev
+```
+
+
 This API is for fetching the books and performing the CRUD operation with the books.
 
 User can perform various types of the request such as Get, Post, Put, Delete. 
 
 <img width="296" alt="Screenshot 2022-10-22 at 12 32 23 AM" src="https://user-images.githubusercontent.com/75525703/197270369-dd8ff988-7cc1-4080-a45f-1bd88aca4852.png">
 
-*Here is the screenshot attached to use in POSTMAN.*
 
+```
+Here is the screenshot attached to use in POSTMAN.
+```
 <img width="673" alt="Screenshot 2022-10-22 at 12 33 58 AM" src="https://user-images.githubusercontent.com/75525703/197270715-6acd868a-3bfd-4797-85ea-db5f0987e5a2.png">
 <img width="690" alt="Screenshot 2022-10-22 at 12 34 05 AM" src="https://user-images.githubusercontent.com/75525703/197270725-a9870b37-b428-4c94-bba8-7a4cbb680e13.png">
 <img width="827" alt="Screenshot 2022-10-22 at 12 34 12 AM" src="https://user-images.githubusercontent.com/75525703/197270738-9ff1e2f4-b1da-4823-94f6-9f0210a7bd54.png">
